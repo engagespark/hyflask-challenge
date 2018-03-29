@@ -18,7 +18,7 @@ def hello_world():
 app.run()
 ```
 
-(Run [hellopython.py]([hellopython.py) to test this.
+(Run [hellopython.py](hellopython.py) to test this.
 
 That's nice. Let's look how this could look with [Hy](http://docs.hylang.org/en/stable/), a “wonderful dialect of Lisp that’s embedded in Python”.
 Let's see how wonderful that looks:
