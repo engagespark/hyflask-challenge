@@ -84,3 +84,4 @@ Implement `Server` in `flaskdsl.hy`. This should make `betterflask.hy` runnable 
 * Hy do not support [keyword parameters for macros](https://github.com/hylang/hy/pull/960#issuecomment-148296324). :(
 * You can't play with function objects in quoted expressions: Functions cannot currently be represented as HyObjects.
 * The code intended code is fundamentally different from the Flask way in that it's a single expression. What are the drawbacks? How could a better DSL look like?
+* Ugh, what is this? I'll *never* use LISP in production *anyway*! Well … first, that's a very sad outlook on life. :p And second, that's [the point](https://www.engagespark.com/blog/how-to-screen-for-passion-and-speed-of-learning/). Enjoy! I did.
